@@ -1,12 +1,9 @@
-# ChatRun 
+# ChatRun (REMAKE)
 
-This Roblox Lua script adds a `/run` command onto the chat, regardless of the chat version. (Uses an [ExtraAbilities](<https://github.com/IvanTheProtogen/ExtraAbilities>) module!)
+This Roblox Lua script allows you to execute code via the chat, regardless of the chat version. (Uses an [ExtraAbilities](<https://github.com/IvanTheProtogen/ExtraAbilities>) module!)
 
 Recommended to put this script on auto-execute.
 
-# Commands 
+# How to use 
 
-```
-/run <code> -- Executes the provided code.
-/auth <player_name> -- Authorizes or unauthorizes the player to use /run on your client.
-```
+Just say `$ <<CODE>>` in the chat to execute code.
